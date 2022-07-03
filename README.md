@@ -1,24 +1,44 @@
 
 
-<h1 align="center">Hi, I ´m Thonny Noda          ＼(￣O￣)</h1>
- <div>
-	<h4 align="left">--> Junior developer;<br>--> Advanced study process in react, react native and nodejs;</h4>
-</div>
-<div>		
-	<div align="left">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-
-
-	
-  
-</div>
-
-
+# Hi, I ´m Thonny Noda ＼(￣O￣)
 
 <div align="center">
-  <img width="300" height="530" src="https://lh3.googleusercontent.com/jOtgPFoGePDBG2VhQ4HjDskcv_h_phqf8tpIreHxS7XFKZXkyOX_5he7Vchjr5fMCGfpnvaLBybUosq-RwlVgbFLgCTy5LX6F8vZgbn-Y8Rbq_dn_FH7f107Ihf1bvgoe8zz-G1l0G8myvcrJ2_vsXmFj-CQu2IfjcuNn5jwhWzIGlxgyoJMSMfptYh4gm3nbj3teMs1AOEhkGWclEwM5iVnUEd7vmzeQBnNCmFMvTNeVRCvUoMh-2oJcJD9O0Y8xCcFKXZK8tV4gkVwCsH5kqg7IIZPg_RuiFIX_oMSEBhkQ8mMkoUmsyh7OAIp2U1v6tLnjF4Ux9SrWPflu7ZJEny5xXkKZAmDoHAaITk1hFZsdVizKFclqVe5YI1L0DJaV3SUt0RfBIeQTw39YnZPGSqsu-1htd3ZUmVY0NzuSFdT3tD1oZVXif4KrSsEerCC7Cinz-7h_pk9fYkEdRquzL_SjyiF5aafNm-jFZ1m05t2titzNY73YMf_jSl1WIFST-hTTQfRsDnbJO-k7Nzc11tXQaQSBVgwmPbzoScxgsJmNW1V9t9UuYeCcwkSc_Y3WO-BteQJllS6VWvtLI7x3SLnU94MCuw_mZJJK98rWD9umY23ZSSgDQQR_Semb0Ltm84vSNAnvpB-ESL1Z6ExOgGiEhO9wAJQUyiswaDAKnQqgAg1cPUWpGlMPex9hz5ZlyoHC9xnXO7ZO25qHB4ZgvOQsKXMQ-HJDa3jYhvoPYUjgN7piIdt_x2FaowC0w=w358-h598-no?authuser=0"  />
-	</div>
+ <img src="https://lh3.googleusercontent.com/03Eiq8WXIpIBWMFNwUZq2BmSCkDSd9JU2RWfScdqPPUgskzY9lNIcwMXuAmV21-5wk_9q_c-AsjM1UYfpJprkYU78ocvPB8Fcmd8GPdHwxC5x-bWh4zr_PcxtefSYtdDL0qb9mWS9eDfCCEhmGBlEhe8tqRSLGBYBN1rHXLchVn3__m06y8F8g1rfts51-pFeWSUV0UbBPkWs0tiOqs7KNatB9rKIwD_8sW2-pm2YydGzjkbiqviZmoqZMa6NBEpEprvPmN3pYza44dDlDYEd35dMNv2VhSTV4AnHKf8n54PCp3bVlVRLFOLG9jTZrwFjclzNQ8tP3-baL-xvXFacHdoogHQKD0Go6jf7uZ2H-IN6tvo2UpDLph3oxF5cN9cEIwvR1MfIDuAzn6WjfjMdUCx3lQeosl2SfQQWKEKfN6ND6mwYqx3uW6l6aR0Yf2XnrLTUkR7bOZECLRogJOg5bpv1BqrLpJ9UHtWO1Sg6OL6HgFBMZvOyGb4Bnj9VphFm064b0LDVkEX_rbEHTov_dHwK1knMhyotqWmVGEDQQ5uvIsO7RDguoYfKkmvOZCqqOy4CE4mdkaycexH2ukW9Zk8VmShhahsGaEZ8KxHgpe4xegXluMEpV6dRjrH0iZKvVWeGq_Vy3ZoscLH5mJeQ7_jsqPpt_OoRUZB5wbixWBHTx28lNLZ32SUItfzd9rCwuk7uMtCRVWaLGZmm4TVEYkcGs_o2zyvs__4ruHPNL3T55gO9_0tCSXHnKIE5MZJWMUinsGNJbsQmRbjDGbJ6WPDFM_3XSAHZO8=w358-h598-no?authuser=0" height="600" width="350" alt="perfil"  />
+</div>
+
+## 🚀 About
+--> Junior developer;
+
+--> Advanced study process in react, react native and nodejs;
+
+## 🛠 Skills
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+</div>
+
+###
+
+## Other
+👩‍💻 I currently work in the information technology assistant in a hospital institution
+
+🧠 I'm studying reactjs, react native and nodejs
+
+## 📫 Contact
+<div align="left">
+  <a href="https://www.linkedin.com/in/noda-tony/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="noda.thonny@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+
