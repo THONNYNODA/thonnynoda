@@ -2,14 +2,15 @@
 
 # Hi, I ´m Thonny Noda ＼(￣O￣)
 
-<div align="center">
- <img src="https://lh3.googleusercontent.com/03Eiq8WXIpIBWMFNwUZq2BmSCkDSd9JU2RWfScdqPPUgskzY9lNIcwMXuAmV21-5wk_9q_c-AsjM1UYfpJprkYU78ocvPB8Fcmd8GPdHwxC5x-bWh4zr_PcxtefSYtdDL0qb9mWS9eDfCCEhmGBlEhe8tqRSLGBYBN1rHXLchVn3__m06y8F8g1rfts51-pFeWSUV0UbBPkWs0tiOqs7KNatB9rKIwD_8sW2-pm2YydGzjkbiqviZmoqZMa6NBEpEprvPmN3pYza44dDlDYEd35dMNv2VhSTV4AnHKf8n54PCp3bVlVRLFOLG9jTZrwFjclzNQ8tP3-baL-xvXFacHdoogHQKD0Go6jf7uZ2H-IN6tvo2UpDLph3oxF5cN9cEIwvR1MfIDuAzn6WjfjMdUCx3lQeosl2SfQQWKEKfN6ND6mwYqx3uW6l6aR0Yf2XnrLTUkR7bOZECLRogJOg5bpv1BqrLpJ9UHtWO1Sg6OL6HgFBMZvOyGb4Bnj9VphFm064b0LDVkEX_rbEHTov_dHwK1knMhyotqWmVGEDQQ5uvIsO7RDguoYfKkmvOZCqqOy4CE4mdkaycexH2ukW9Zk8VmShhahsGaEZ8KxHgpe4xegXluMEpV6dRjrH0iZKvVWeGq_Vy3ZoscLH5mJeQ7_jsqPpt_OoRUZB5wbixWBHTx28lNLZ32SUItfzd9rCwuk7uMtCRVWaLGZmm4TVEYkcGs_o2zyvs__4ruHPNL3T55gO9_0tCSXHnKIE5MZJWMUinsGNJbsQmRbjDGbJ6WPDFM_3XSAHZO8=w358-h598-no?authuser=0" height="600" width="350" alt="perfil"  />
-</div>
+Junior Developer || Frontend || React - Javascript
+
+ <img align="right" src="https://lh3.googleusercontent.com/03Eiq8WXIpIBWMFNwUZq2BmSCkDSd9JU2RWfScdqPPUgskzY9lNIcwMXuAmV21-5wk_9q_c-AsjM1UYfpJprkYU78ocvPB8Fcmd8GPdHwxC5x-bWh4zr_PcxtefSYtdDL0qb9mWS9eDfCCEhmGBlEhe8tqRSLGBYBN1rHXLchVn3__m06y8F8g1rfts51-pFeWSUV0UbBPkWs0tiOqs7KNatB9rKIwD_8sW2-pm2YydGzjkbiqviZmoqZMa6NBEpEprvPmN3pYza44dDlDYEd35dMNv2VhSTV4AnHKf8n54PCp3bVlVRLFOLG9jTZrwFjclzNQ8tP3-baL-xvXFacHdoogHQKD0Go6jf7uZ2H-IN6tvo2UpDLph3oxF5cN9cEIwvR1MfIDuAzn6WjfjMdUCx3lQeosl2SfQQWKEKfN6ND6mwYqx3uW6l6aR0Yf2XnrLTUkR7bOZECLRogJOg5bpv1BqrLpJ9UHtWO1Sg6OL6HgFBMZvOyGb4Bnj9VphFm064b0LDVkEX_rbEHTov_dHwK1knMhyotqWmVGEDQQ5uvIsO7RDguoYfKkmvOZCqqOy4CE4mdkaycexH2ukW9Zk8VmShhahsGaEZ8KxHgpe4xegXluMEpV6dRjrH0iZKvVWeGq_Vy3ZoscLH5mJeQ7_jsqPpt_OoRUZB5wbixWBHTx28lNLZ32SUItfzd9rCwuk7uMtCRVWaLGZmm4TVEYkcGs_o2zyvs__4ruHPNL3T55gO9_0tCSXHnKIE5MZJWMUinsGNJbsQmRbjDGbJ6WPDFM_3XSAHZO8=w358-h598-no?authuser=0" height="600" width="350" alt="perfil"  />
+
 
 ## 🚀 About
---> Junior developer;
 
---> Advanced study process in react, react native and nodejs;
+
+I have some reasons to say that I like to program, because when I'm coding I can't wait to go by, sometimes I spend hours and even days trying to solve a bug, but when it solves that adrenaline comes and the feeling that I managed to raise my level.
 
 ## 🛠 Skills
 
@@ -28,6 +29,8 @@
 👩‍💻 I currently work in the information technology assistant in a hospital institution
 
 🧠 I'm studying reactjs, react native and nodejs
+
+🗣️ I can speak in portuguese and japanese
 
 ## 📫 Contact
 <div align="left">
